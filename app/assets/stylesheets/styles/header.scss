@@ -1,0 +1,32 @@
+header {
+    background-image: image-url("hungryhomlesssign.jpg");
+    text-align: center;
+
+    .logo {
+        margin: 1em;
+        width: 150px;
+    }
+
+    .donate-button {
+        margin: 1em;
+    }
+}
+
+nav {
+    li {
+        display: inline-block;
+        width: 150px;
+        padding: 10px;
+
+        a {
+            color: #FFF;
+            text-decoration: none;
+
+
+        }
+    }
+}
+
+.content {
+    min-height: 600px;
+}
